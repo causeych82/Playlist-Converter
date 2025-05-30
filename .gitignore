@@ -1,0 +1,5 @@
+PlaylistConverter.exe
+build/
+dist/
+PlaylistConverter.spec
+.yt_cache.json
