@@ -3,3 +3,5 @@ build/
 dist/
 PlaylistConverter.spec
 .yt_cache.json
+client_secrets.json
+spotify_credentials.json
